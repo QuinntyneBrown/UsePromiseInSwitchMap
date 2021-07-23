@@ -1,0 +1,12 @@
+using System;
+
+namespace UsePromiseInSwitchMap.Api.Data
+{
+    public static class SeedData
+    {
+        public static void Seed(UsePromiseInSwitchMapDbContext context)
+        {
+
+        }
+    }
+}
